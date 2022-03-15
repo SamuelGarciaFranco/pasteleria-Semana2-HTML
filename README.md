@@ -2,7 +2,7 @@
 Creación de una web con HTML
 Esta práctica pertenece al curso de LaunchX - Microsoft (Desarrollador FullStack)
 
-Live de la página:
+Live de la página: https://samuelgarciafranco.github.io/pasteleria-Semana2-HTML/
 
 Para más información visítame en https://www.nanotech.com.mx/
 
